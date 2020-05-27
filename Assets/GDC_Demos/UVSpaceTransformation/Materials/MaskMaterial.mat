@@ -37,11 +37,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SecondaryAlbedo:
-        m_Texture: {fileID: 2800000, guid: 1368ca25976eed24d875243845778042, type: 3}
+        m_Texture: {fileID: 2800000, guid: c858b336a4c68ed4cac6c36baaf5e3b0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SecondaryNormal:
-        m_Texture: {fileID: 2800000, guid: 57dde61a6596d6f40b1105e6cb0b1d2f, type: 3}
+        m_Texture: {fileID: 2800000, guid: d3220ca6f89673b45a4e90dd77bf040c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture2DAsset_DE124ED7_Out_0:
@@ -62,9 +62,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_64CCAA74: 5
-    - _BlendAmount: 4
+    - _BlendAmount: 10.13
     - _BurnTilingAmount: 3.17
-    - _SecondaryTilingAmount: 1
-    - _TilingAmount: 3.95
+    - _SecondaryTilingAmount: 3
+    - _TilingAmount: 2
     m_Colors:
     - _MaskTint: {r: 1, g: 1, b: 1, a: 1}

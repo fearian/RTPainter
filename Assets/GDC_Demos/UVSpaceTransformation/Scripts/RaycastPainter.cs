@@ -5,7 +5,7 @@ using UnityEngine;
 public class RaycastPainter : MonoBehaviour
 {
     [SerializeField] Camera _camera;
-    [SerializeField] Painter _painter;
+    [SerializeField] public Painter _painter;
     
     void Update()
     {
